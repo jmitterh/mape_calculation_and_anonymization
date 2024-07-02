@@ -1,0 +1,40 @@
+# Custom Non-Open Source License
+
+## 1. Definitions
+
+- "Software" means the computer programs and any related materials made available by the Licensor.
+- "You" means the individual or entity using the Software.
+- "Non-Commercial Use" means personal, academic, or research use, but excludes any use for commercial purposes.
+
+## 2. Grant of License
+
+The Licensor grants you a non-exclusive, non-transferable, and revocable license to use, view, and modify the Software for Non-Commercial Use only, subject to the following conditions:
+
+- You may not distribute or make the Software available to any third party without the Licensor's prior written consent.
+- You may not use the Software for commercial purposes without obtaining a separate commercial license from the Licensor.
+
+## 3. Restrictions
+
+- You may not use the Software for any illegal or unauthorized purpose.
+- You may not reverse engineer, decompile, or disassemble the Software, except to the extent permitted by applicable law.
+
+## 4. Disclaimer of Warranty
+
+The Software is provided "as-is" without any warranties, express or implied, including but not limited to warranties of merchantability, fitness for a particular purpose, and non-infringement.
+
+## 5. Limitation of Liability
+
+In no event shall the Licensor be liable for any damages arising out of or in connection with the use or inability to use the Software, even if the Licensor has been advised of the possibility of such damages.
+
+## 6. Termination
+
+This license will terminate automatically if you violate any of the terms and conditions. Upon termination, you must cease all use of the Software and destroy all copies in your possession.
+
+## 7. Governing Law
+
+This license shall be governed by and construed in accordance with the laws of [Your Jurisdiction].
+
+## 8. Contact Information
+
+For permissions beyond the scope of this license, please contact [Your Contact Information].
+
