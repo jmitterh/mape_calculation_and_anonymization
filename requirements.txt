@@ -206,4 +206,4 @@ xlrd==2.0.1
 y-py==0.5.9
 yarl==1.9.4
 ypy-websocket==0.8.2
-zipp==3.14.0
+zipp==3.19.1
